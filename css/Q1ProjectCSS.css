@@ -1,0 +1,82 @@
+body {
+	background-color: #ffffdd;
+	font-family: Century Gothic;
+	padding: 25px;
+}
+
+.home {
+	width: auto;
+	height: auto;
+	background-color: #0000dd;
+	font-size: 200%;
+	padding: 10px 100px;
+	text-align: middle;
+	overflow: auto;
+}
+
+.home a {
+	text-decoration: none;
+	color: #ffff22;
+}
+
+span.login {
+	position: relative;
+	float: right;
+	margin-left: 10px;
+	font-size: 30px;
+	background-color: #00ffff;
+	padding: 5px;
+	font-weight: bold;
+}
+
+span.signup {
+	position: relative;
+	float: right;
+	font-size: 30px;
+	background-color: #00ffff;
+	padding: 5px;
+	font-weight: bold;
+}
+
+li.nav {
+	list-style-type: none;
+	float: left;
+	margin-right: 10px;
+	padding: 10px;
+	background-color: #ffa500;
+	font-weight: bold;
+}
+
+li.nav a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.welcome {
+	font-size: 35px;
+	font-family: Consolas;
+}
+
+div.haochiwa h3 a {
+	text-decoration: none;
+	color: #000000;
+}
+
+p.about {
+	text-indent: 5%;
+}
+
+.firstpowercat {
+	margin-left: 25px;
+}
+
+.secondpowercat {
+	margin-left: 50px;
+}
+
+aside {
+	width: 20%;
+	float: right;
+	clear: both;
+	background-color: #eeee88;
+}
